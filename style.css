@@ -1,0 +1,9 @@
+main {
+  margin: 0 auto;
+  width: 40em;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+h1, p {
+  font-family: sans-serif;
+}
