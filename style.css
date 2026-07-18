@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  background: white;
+  color: black;
+  margin: 0;
+}
+
+main {
+  margin: 0 auto;
+  padding: 1.5rem 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+@media only screen and (min-width: 640px) {
+  main {
+    width: 40em;
+  }
+}
+
+a, a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: red;
+}
+
+h1, h2 {
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid silver;
+}
